@@ -31,6 +31,13 @@ type Estate = {
   tokenAddress: string
 }
 
+const images = [
+  "/architectural-property-night-cityscape.png",
+  "/modern-building-dusk.png"
+  
+
+]
+
 const ESTATES: Estate[] = [
   {
     name: "SoMa Loft Fund",
