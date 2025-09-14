@@ -45,6 +45,7 @@
     "crypto": "latest",
     "date-fns": "4.1.0",
     "embla-carousel-react": "latest",
+    "ethers": "^5.2.0",
     "framer-motion": "latest",
     "geist": "latest",
     "input-otp": "latest",
